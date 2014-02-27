@@ -25,7 +25,9 @@ You can't use the theme without Bootstrap's CSS, so use:
     <link href="a11ytheme.min.css" rel="stylesheet">
 
 
-NB if you recompiled Bootstrap, you only will need the recompiled CSS
+NB if you recompiled Bootstrap, you only will need the recompiled CSS.
+
+Also try the [Bootstrap Accessibility Plugin](http://paypal.github.io/bootstrap-accessibility-plugin/), This plugin adds accessibility mark-up to the default components of Bootstrap 3 to make them accessible for keyboard and screen reader users.
 
 HTML
 ----
